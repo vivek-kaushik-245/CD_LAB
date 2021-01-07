@@ -4,9 +4,9 @@
 void main()
 {int i,n;
 char a[20];
-printf("NAME: SNIGDHA SRIVASTAVA");
+printf("NAME: VIVEK KAUSHIK");
 printf("\nCLASS: CSE 3D");
-printf("\nROLL NO: 1816110207");
+printf("\nROLL NO: 1816110245");
 printf("\nEnter the term (to check whether it is in form of(ab*c(a+b)): ");
 scanf("%s",&a);
 n=strlen(a);
